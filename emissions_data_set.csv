@@ -1,0 +1,152 @@
+Year,State,Producer Type,Energy Source,"CO2
+(Metric Tons)","SO2
+(Metric Tons)","NOx
+(Metric Tons)"
+2017,AK,Total Electric Power Industry,Coal,"1,243,620","1,365","2,281"
+2017,AK,Total Electric Power Industry,Natural Gas,"1,580,156",8,"11,359"
+2017,AK,Total Electric Power Industry,Petroleum,"707,738","1,177","6,769"
+2017,AL,Total Electric Power Industry,Coal,"30,411,395","10,528","14,127"
+2017,AL,Total Electric Power Industry,Natural Gas,"22,732,029",130,"8,042"
+2017,AL,Total Electric Power Industry,Petroleum,"48,671",109,44
+2017,AR,Total Electric Power Industry,Coal,"25,708,956","43,982","24,041"
+2017,AR,Total Electric Power Industry,Natural Gas,"7,557,373",38,"2,649"
+2017,AR,Total Electric Power Industry,Petroleum,"42,758",41,16
+2017,AZ,Total Electric Power Industry,Coal,"31,259,230","12,000","27,775"
+2017,AZ,Total Electric Power Industry,Natural Gas,"12,435,830",84,"6,617"
+2017,AZ,Total Electric Power Industry,Petroleum,"44,194",13,25
+2017,CA,Total Electric Power Industry,Coal,"1,342,526",321,778
+2017,CA,Total Electric Power Industry,Natural Gas,"42,444,819",189,"45,198"
+2017,CA,Total Electric Power Industry,Petroleum,"41,547",65,542
+2017,CO,Total Electric Power Industry,Coal,"30,076,409","14,055","21,142"
+2017,CO,Total Electric Power Industry,Natural Gas,"5,633,883",28,"2,812"
+2017,CO,Total Electric Power Industry,Petroleum,"9,346",5,25
+2017,CT,Total Electric Power Industry,Coal,"243,679",206,155
+2017,CT,Total Electric Power Industry,Natural Gas,"6,630,076",22,"2,927"
+2017,CT,Total Electric Power Industry,Petroleum,"157,029",214,338
+2017,DC,Total Electric Power Industry,Natural Gas,"36,975",0,102
+2017,DE,Total Electric Power Industry,Coal,"448,253",430,146
+2017,DE,Total Electric Power Industry,Natural Gas,"3,158,437",15,639
+2017,DE,Total Electric Power Industry,Petroleum,"23,492",45,10
+2017,FL,Total Electric Power Industry,Coal,"37,152,060","32,286","25,804"
+2017,FL,Total Electric Power Industry,Natural Gas,"66,226,121",762,"22,534"
+2017,FL,Total Electric Power Industry,Petroleum,"1,488,380","2,731",765
+2017,GA,Total Electric Power Industry,Coal,"32,576,968","13,793","20,754"
+2017,GA,Total Electric Power Industry,Natural Gas,"21,335,107",110,"5,005"
+2017,GA,Total Electric Power Industry,Petroleum,"716,759","2,286",767
+2017,HI,Total Electric Power Industry,Coal,"1,448,025",206,947
+2017,HI,Total Electric Power Industry,Petroleum,"5,375,906","15,949","13,933"
+2017,IA,Total Electric Power Industry,Coal,"28,178,821","28,974","23,263"
+2017,IA,Total Electric Power Industry,Natural Gas,"2,232,683",13,"1,575"
+2017,IA,Total Electric Power Industry,Petroleum,"244,473","1,864",347
+2017,ID,Total Electric Power Industry,Coal,"134,100",550,261
+2017,ID,Total Electric Power Industry,Natural Gas,"1,634,624",8,"1,249"
+2017,ID,Total Electric Power Industry,Petroleum,147,0,1
+2017,IL,Total Electric Power Industry,Coal,"61,802,763","77,684","27,959"
+2017,IL,Total Electric Power Industry,Natural Gas,"8,815,668",44,"4,184"
+2017,IL,Total Electric Power Industry,Petroleum,"44,336",43,176
+2017,IN,Total Electric Power Industry,Coal,"72,302,883","57,857","54,733"
+2017,IN,Total Electric Power Industry,Natural Gas,"9,228,823",51,"5,123"
+2017,IN,Total Electric Power Industry,Petroleum,"112,992",206,64
+2017,KS,Total Electric Power Industry,Coal,"20,821,364","5,029","10,702"
+2017,KS,Total Electric Power Industry,Natural Gas,"1,365,332",5,"4,084"
+2017,KS,Total Electric Power Industry,Petroleum,"51,303",10,118
+2017,KY,Total Electric Power Industry,Coal,"57,881,357","50,861","36,892"
+2017,KY,Total Electric Power Industry,Natural Gas,"4,766,288",42,"4,380"
+2017,KY,Total Electric Power Industry,Petroleum,"562,989",913,537
+2017,LA,Total Electric Power Industry,Coal,"13,445,816","35,235","7,860"
+2017,LA,Total Electric Power Industry,Natural Gas,"30,925,898",175,"40,685"
+2017,LA,Total Electric Power Industry,Petroleum,"5,567,045",655,"1,882"
+2017,MA,Total Electric Power Industry,Coal,"1,148,014",500,531
+2017,MA,Total Electric Power Industry,Natural Gas,"9,691,193",36,"3,571"
+2017,MA,Total Electric Power Industry,Petroleum,"242,561",552,221
+2017,MD,Total Electric Power Industry,Coal,"9,240,340","13,361","3,852"
+2017,MD,Total Electric Power Industry,Natural Gas,"3,465,319",14,"2,860"
+2017,MD,Total Electric Power Industry,Petroleum,"118,710",136,237
+2017,ME,Total Electric Power Industry,Coal,"197,204",198,216
+2017,ME,Total Electric Power Industry,Natural Gas,"1,090,835",4,506
+2017,ME,Total Electric Power Industry,Petroleum,"169,605",599,177
+2017,MI,Total Electric Power Industry,Coal,"42,523,556","59,188","28,275"
+2017,MI,Total Electric Power Industry,Natural Gas,"13,498,923",278,"8,471"
+2017,MI,Total Electric Power Industry,Petroleum,"1,774,757","9,073","1,213"
+2017,MN,Total Electric Power Industry,Coal,"24,605,660","16,593","17,366"
+2017,MN,Total Electric Power Industry,Natural Gas,"3,156,495",13,"2,012"
+2017,MN,Total Electric Power Industry,Petroleum,"34,330",22,105
+2017,MO,Total Electric Power Industry,Coal,"65,838,412","97,565","44,408"
+2017,MO,Total Electric Power Industry,Natural Gas,"2,746,830",8,"1,851"
+2017,MO,Total Electric Power Industry,Petroleum,"56,258",37,160
+2017,MS,Total Electric Power Industry,Coal,"5,107,502","2,222","2,866"
+2017,MS,Total Electric Power Industry,Natural Gas,"19,022,370",103,"9,103"
+2017,MS,Total Electric Power Industry,Petroleum,"14,988",11,17
+2017,MT,Total Electric Power Industry,Coal,"14,796,541","8,715","12,180"
+2017,MT,Total Electric Power Industry,Natural Gas,"284,591",1,"1,358"
+2017,MT,Total Electric Power Industry,Petroleum,"830,204","2,969",637
+2017,NC,Total Electric Power Industry,Coal,"32,398,027","21,105","26,578"
+2017,NC,Total Electric Power Industry,Natural Gas,"15,647,494",70,"11,741"
+2017,NC,Total Electric Power Industry,Petroleum,"235,826",375,"1,131"
+2017,ND,Total Electric Power Industry,Coal,"29,552,725","37,468","30,872"
+2017,ND,Total Electric Power Industry,Natural Gas,"451,310",1,253
+2017,ND,Total Electric Power Industry,Petroleum,"31,697",12,16
+2017,NE,Total Electric Power Industry,Coal,"21,933,987","46,585","18,586"
+2017,NE,Total Electric Power Industry,Natural Gas,"349,545",2,422
+2017,NE,Total Electric Power Industry,Petroleum,"6,955",6,43
+2017,NH,Total Electric Power Industry,Coal,"337,480",288,417
+2017,NH,Total Electric Power Industry,Natural Gas,"1,444,754",5,205
+2017,NH,Total Electric Power Industry,Petroleum,"108,958",272,131
+2017,NJ,Total Electric Power Industry,Coal,"1,538,324","1,482","1,025"
+2017,NJ,Total Electric Power Industry,Natural Gas,"15,602,410",54,"3,609"
+2017,NJ,Total Electric Power Industry,Petroleum,"88,575",735,97
+2017,NM,Total Electric Power Industry,Coal,"18,711,661","8,183","31,336"
+2017,NM,Total Electric Power Industry,Natural Gas,"4,254,359",16,"3,126"
+2017,NM,Total Electric Power Industry,Petroleum,"33,348",4,11
+2017,NV,Total Electric Power Industry,Coal,"2,064,713","1,721","1,726"
+2017,NV,Total Electric Power Industry,Natural Gas,"11,007,957",52,"6,656"
+2017,NV,Total Electric Power Industry,Petroleum,"7,928",5,4
+2017,NY,Total Electric Power Industry,Coal,"1,060,904","8,474","1,832"
+2017,NY,Total Electric Power Industry,Natural Gas,"22,256,258",94,"11,587"
+2017,NY,Total Electric Power Industry,Petroleum,"570,669","1,250",766
+2017,OH,Total Electric Power Industry,Coal,"65,477,159","82,874","49,142"
+2017,OH,Total Electric Power Industry,Natural Gas,"12,384,724",60,"3,177"
+2017,OH,Total Electric Power Industry,Petroleum,"2,024,170","23,996","2,837"
+2017,OK,Total Electric Power Industry,Coal,"18,954,561","39,419","14,437"
+2017,OK,Total Electric Power Industry,Natural Gas,"13,163,607",61,"8,258"
+2017,OK,Total Electric Power Industry,Petroleum,"12,555",22,18
+2017,OR,Total Electric Power Industry,Coal,"1,727,284","2,964","1,664"
+2017,OR,Total Electric Power Industry,Natural Gas,"6,186,140",44,"4,999"
+2017,OR,Total Electric Power Industry,Petroleum,"7,847",10,4
+2017,PA,Total Electric Power Industry,Coal,"47,221,496","63,576","26,706"
+2017,PA,Total Electric Power Industry,Natural Gas,"30,247,218",135,"9,332"
+2017,PA,Total Electric Power Industry,Petroleum,"414,059",558,560
+2017,RI,Total Electric Power Industry,Natural Gas,"2,937,613",9,"1,616"
+2017,RI,Total Electric Power Industry,Petroleum,"43,311",68,57
+2017,SC,Total Electric Power Industry,Coal,"17,435,241","5,869","8,159"
+2017,SC,Total Electric Power Industry,Natural Gas,"7,684,494",36,"1,654"
+2017,SC,Total Electric Power Industry,Petroleum,"106,877",118,166
+2017,SD,Total Electric Power Industry,Coal,"2,174,298",767,893
+2017,SD,Total Electric Power Industry,Natural Gas,"321,792",1,146
+2017,SD,Total Electric Power Industry,Petroleum,"6,407",6,36
+2017,TN,Total Electric Power Industry,Coal,"30,415,799","31,254","14,489"
+2017,TN,Total Electric Power Industry,Natural Gas,"5,178,015",24,"2,007"
+2017,TN,Total Electric Power Industry,Petroleum,"108,179",47,50
+2017,TX,Total Electric Power Industry,Coal,"140,136,614","249,773","77,723"
+2017,TX,Total Electric Power Industry,Natural Gas,"99,579,127",617,"75,577"
+2017,TX,Total Electric Power Industry,Petroleum,"267,787","1,086",644
+2017,UT,Total Electric Power Industry,Coal,"24,885,992","9,965","28,354"
+2017,UT,Total Electric Power Industry,Natural Gas,"2,752,755",14,"2,032"
+2017,UT,Total Electric Power Industry,Petroleum,"27,994",2,15
+2017,VA,Total Electric Power Industry,Coal,"11,583,511","7,812","9,182"
+2017,VA,Total Electric Power Industry,Natural Gas,"18,720,550",134,"5,210"
+2017,VA,Total Electric Power Industry,Petroleum,"428,523",478,769
+2017,VT,Total Electric Power Industry,Natural Gas,"4,432",0,9
+2017,VT,Total Electric Power Industry,Petroleum,"10,910",22,67
+2017,WA,Total Electric Power Industry,Coal,"5,769,385","1,895","5,931"
+2017,WA,Total Electric Power Industry,Natural Gas,"5,072,135",34,"2,855"
+2017,WA,Total Electric Power Industry,Petroleum,"57,904",143,112
+2017,WI,Total Electric Power Industry,Coal,"35,961,047","19,501","16,677"
+2017,WI,Total Electric Power Industry,Natural Gas,"6,696,295",29,"3,391"
+2017,WI,Total Electric Power Industry,Petroleum,"196,144",296,118
+2017,WV,Total Electric Power Industry,Coal,"63,832,342","36,105","39,140"
+2017,WV,Total Electric Power Industry,Natural Gas,"1,067,844",4,720
+2017,WV,Total Electric Power Industry,Petroleum,"87,698",4,29
+2017,WY,Total Electric Power Industry,Coal,"43,451,554","34,617","32,295"
+2017,WY,Total Electric Power Industry,Natural Gas,"786,171",4,"1,947"
+2017,WY,Total Electric Power Industry,Petroleum,"34,779",11,23
