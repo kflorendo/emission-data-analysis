@@ -26,5 +26,5 @@ plt.scatter(pollution, num_deaths, c=[[0,0,0.54,0.3]], s=sizes, edgecolors=[[0.7
 plt.xlabel('Mean Annual PM2.5 Air Pollution Exposure (micrograms per cubic meter)')
 plt.ylabel('Number of Deaths (per 100,000)')
 plt.title('PM2.5 Air Pollution since 2010 vs. Death Rate')
-plt.text(40,20,'NOTE: Circle size indicates GDP per capita')
+plt.text(35,20,'NOTE: Circle size corresponds to GDP per capita')
 plt.show()
